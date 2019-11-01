@@ -22,3 +22,4 @@ urlpatterns = [
     path('hello/', views.hello),
     re_path('^$',views.hello)
 ]
+# lalalalalalalalal
