@@ -30,7 +30,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Demo/urls.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="220">
@@ -38,6 +38,15 @@
                   <folding>
                     <element signature="e#628#660#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="2" lean-forward="true" selection-end-line="1" />
                 </state>
               </provider>
             </entry>
@@ -66,6 +75,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -81,6 +93,7 @@
     <option name="width" value="699" />
     <option name="height" value="629" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -223,15 +236,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572577813140</updated>
-      <workItem from="1572577816882" duration="7608000" />
+      <workItem from="1572577816882" duration="7611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7608000" />
+    <option name="totallyTimeSpent" value="7611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="469" y="55" width="699" height="629" extended-state="0" />
+    <frame x="469" y="55" width="699" height="629" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -245,7 +258,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.096339114" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.096525095" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -293,6 +306,13 @@
           <folding>
             <element signature="e#628#660#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-end-line="1" />
         </state>
       </provider>
     </entry>
